@@ -1,0 +1,3 @@
+Item ID,LibraryID,Category,Title,Author,Publisher,Production_Year,Status, Copies
+1,1,book,oop,ds malik,pearson,2000,on,9
+2,2,article,nawaye,aslam,jhung,2001,on,11

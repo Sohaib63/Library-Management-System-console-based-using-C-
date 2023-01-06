@@ -1,0 +1,6 @@
+C:\Users\habib\OneDrive\Desktop\project3\Debug\project3.exe
+C:\Users\habib\OneDrive\Desktop\project3\Debug\project3.pdb
+E:\Desktop\last\project3\Debug\project3.exe
+E:\Desktop\last\project3\Debug\project3.pdb
+E:\Desktop\Console\project3\Debug\project3.exe
+E:\Desktop\Console\project3\Debug\project3.pdb
